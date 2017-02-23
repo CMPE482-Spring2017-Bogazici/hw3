@@ -8,4 +8,4 @@ In this homework, you will prepare a Jupyter Notebook report for the solutions o
 * You can use determinant or linsolve like functions from other sources.
 * Execute your program with the matrix A = [-2,11;-10,5] in the question and report your results.
 
-_Deadline:_ Mar 02nd, 10:00 a.m.
+_Deadline:_ Mar 2nd, 10:00 a.m.
